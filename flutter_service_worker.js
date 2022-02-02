@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/images/flutter.png": "546e9ea29f7a20b62fb7afe6a59b1407",
 "assets/images/nginx.png": "55fc834ecf3a443a962b918a823ac65a",
 "assets/images/nodejs.png": "c85d54b13413125a2088f97a0d1b6c21",
-"assets/images/perfil.jpg": "61412b3ea200edc46b593769852b615d",
+"assets/images/perfil.jpg": "347ae26a27d108577d89be67fa57c6e3",
 "assets/images/play.png": "e48e23590262d1b8f97257485c866c26",
 "assets/images/spring.png": "5dbb0ba875628500fea88f291dd916aa",
 "assets/images/sql.png": "31ecd5ecdb85324b3696ead3ed23a1f4",
@@ -28,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a27d5765a9022c010b90c0e8ba09d101",
-"/": "a27d5765a9022c010b90c0e8ba09d101",
-"main.dart.js": "a7e5b50e5d4e9d864e567040984ed058",
+"index.html": "13b01c2e6fcb71b6e49b48e85017ce16",
+"/": "13b01c2e6fcb71b6e49b48e85017ce16",
+"main.dart.js": "afd383b8a71265f5925f41a3ea77ee9a",
 "manifest.json": "299cf8b96636dd9f4cea592c3d084f71",
 "version.json": "9d6866c329354ffae9ec273b86bbca6d"
 };
